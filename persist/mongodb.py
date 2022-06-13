@@ -4,7 +4,7 @@ from pymongo import MongoClient
 import requests
 
 CLUSTER = MongoClient(
-    "mongodb+srv://TLevente:BitcoinDB@cluster0.3iezf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+    "mongodb+srv://EXAMPLE-CLUSTER-URI")
 DB = CLUSTER["Bitcoin"]
 COLLECTION = DB["BitcoinPriceData"]
 ANALYSIS_COLLECTION = DB["Analysis"]
