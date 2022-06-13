@@ -6,7 +6,7 @@ The Json file contains the price of Bitcoin in USD and the corresponding timesta
 3. The script can make very basic (avg, sum, std) async calculations on the downloaded data
 4. The results of these calculations are returned by a flask server
 
-The script can also create basic visualizations:
+The script can also create basic visualizations using seaborn:
 
 ![polinom](/pictures/polynomial_analysis.png)
 ![regplot](/pictures/regplot.png)
