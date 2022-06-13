@@ -8,5 +8,5 @@
 
 The script can also create basic visualizations:
 
-![polinom](\pictures\polynomial_analysis.png)
-![regplot](\pictures\regplot.png)
+![polinom](/pictures/polynomial_analysis.png)
+![regplot](/pictures/regplot.png)
